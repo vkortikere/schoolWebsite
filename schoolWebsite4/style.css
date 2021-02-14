@@ -1,0 +1,95 @@
+body{
+    text-align:center;
+    background-color: aliceblue;
+    font-family: "comic sans MS",cursive;
+    
+}
+#welcome{
+    margin-top:20px;
+    
+}
+marquee{
+    background-color: deepskyblue;
+    color:white;
+    font-size: 20px;
+    height:30px;
+    width:1180px
+
+}
+#campusHeader{
+    text-align:left;
+    padding-left:
+}
+.main_div{
+    float:left;
+    width:33.3%;
+    padding: 50px;
+  
+    
+}
+.row::after{
+    content:"";
+    clear: both;
+     display: table;
+}
+#contact{
+    margin-top: 30px;
+}
+.achievment1{
+    background-color: dodgerblue;
+    width:1000px;
+    float:center
+}
+#achievments{
+    text-align:center;
+}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i
+{
+float: right;
+}
+
+.movie_text span
+{
+color: #ff7700;
+}
+p{
+    width: 300px;
+}
+.updated_library{
+    width:300px;
+}
+.list-droup-item col-lg-7 col-md-7 col-sm-7 col-xs-12{
+    width="300px;"
+}
+.text-left{
+    text-align: left;
+    padding-left: 30px;
+}
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
+
